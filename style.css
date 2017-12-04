@@ -1,0 +1,71 @@
+
+/*Header*/
+
+header {
+  background: #f58c69;
+  height: 150px;
+}
+
+header h1 {
+  padding-top: 30px;
+  padding-right: 30px;
+  color: #fff;
+}
+
+header p {
+  color: #fff;
+  padding-right: 30px;
+}
+
+.imagen img {
+  width: 100%;
+}
+
+.line {
+  background: #f58c69;
+  height: 20px;
+}
+
+.line2 {
+  background: #f58c69;
+  height: 20px;
+  margin-top: 50px;
+}
+
+.line3 {
+  background: #f58c69;
+  height: 40px;
+  color: #fff;
+  padding-top: 10px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.one {
+  background: #20c152;
+}
+
+section {
+  color: #fff;
+  line-height: 20px;
+  background: #f58c69;
+  padding: 30px;
+  margin: 30px;
+}
+
+.titulo {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.pictures img {
+  width: 100%;
+  margin: 20px;
+  margin-bottom: 20px;
+}
+
+.pictures {
+  border: 8px solid #fff;
+}
